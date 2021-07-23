@@ -18,7 +18,7 @@
 </p>
 
 <p align='center'>
- <a href="https://heroku.com/deploy?template=https://github.com/DivideProjects/Alita_Robot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku"></a></br></br>
+ <a href="https://heroku.com/deploy?template=https://github.com/sampathsir/Alita_Robot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy on Heroku"></a></br></br>
   <a href="https://t.me/DivideProjects"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Join us on Telegram"></a></br></br>
 
 </p>
@@ -64,7 +64,7 @@ It really motivates me to continue this project further.
 
 **Note:** By default the bot uses the default heroku-20 stack.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DivideProjects/Alita_Robot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sampathsir/Alita_Robot)
 
 ### Traditional
 
